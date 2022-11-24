@@ -8,3 +8,6 @@ for(int i=0; i<2; ++i) {
   printf("Hello World");
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
